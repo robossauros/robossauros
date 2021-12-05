@@ -13,7 +13,7 @@ Premiações 🏆
 - 🥈 InterSesi 2° lugar - 2018 e 2019
 - 🏆 Aliança Vencedora - TEMPORADA FTC 2019/20
 - 🥉 3ª LUGAR NA ARENA - TEMPORADA FTC 2020/21 
-
+- 🥇 MELHOR POTIFOLIO DE ENGENHARIA - InterSesi 2021
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Robo-pic" height="80" style="border-radius:50px;"src="https://cdn.discordapp.com/attachments/904434710288154685/912471631845281833/1-FTC-300x300-removebg-preview.png">
