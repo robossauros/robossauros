@@ -2,7 +2,7 @@ Olá! Somos os Robossauros, equipe de robótica do interior da Paraiba🤖
 ##
 Sobre a Robossauros 🌵
 
-Nós somos os Robossauros da Escola SESI- Sousa no sertão da Paraíba, a equipe hoje conta com 21 membros, 1 técnico e 4 mentores, o nome da equipe foi em homenagem a nossa cidade que é conhecida pelo Vale dos Dinossauros, um dos mais importantes sítios paleontológicos existentes, onde registra-se a maior incidência de pegadas de dinossauros do mundo. Nossa equipe é formada por alunos do primeiro a terceiro ano do ensino médio, a equipe já participou de várias competições dentre elas FLL, OBR e FTC, , focamos sempre em trabalhar juntos com muita garra e disciplina.
+Nós somos os Robossauros da Escola SESI- Sousa no sertão da Paraíba, a equipe hoje conta com 30 membros, 4 técnico e 4 mentores, o nome da equipe foi em homenagem a nossa cidade que é conhecida pelo Vale dos Dinossauros, um dos mais importantes sítios paleontológicos existentes, onde registra-se a maior incidência de pegadas de dinossauros do mundo. Nossa equipe é formada por alunos do primeiro a terceiro ano do ensino médio, a equipe já participou de várias competições dentre elas FLL, FTC, FRC, OBR e CBR, focamos sempre em trabalhar juntos com muita garra e disciplina.
 ##
 Premiações 🏆
 - 🥈 2º LUGAR - CATEGORIA VIAGEM AO CENTRO DA TERRA - TRJ 2015 
@@ -18,6 +18,7 @@ Premiações 🏆
 <div style="display: inline_block"><br>
   <img align="center" alt="Robo-pic" height="80" style="border-radius:50px;"src="https://cdn.discordapp.com/attachments/904434710288154685/912471631845281833/1-FTC-300x300-removebg-preview.png">
   <img align="center" alt="Robo-pic" height="80" style="border-radius:50px;"src="https://cdn.discordapp.com/attachments/904434710288154685/912473419986116658/unnamed.png">
+  <img align="center" alt="Robo-pic" height="80" style="border-radius:50px;"src="https://i.pinimg.com/originals/95/30/9b/95309ba6266c071fa7bd9aa1b0880ca9.png">
   <img align="right" alt="Robo-pic" height="159" style="border-radius:50px;"src="https://cdn.discordapp.com/attachments/904434710288154685/912478312796926012/pp-removebg-preview.png">
 
 
