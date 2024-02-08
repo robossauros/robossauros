@@ -21,9 +21,7 @@ Premiações 🏆
   <img align="center" alt="Robo-pic" height="80" style="border-radius:50px;"src="[https://i.pinimg.com/originals/95/30/9b/95309ba6266c071fa7bd9aa1b0880ca9.png">
   <img align="center" alt="Robo-pic" height="80" style="border-radius:50px;"src="https://cdn.discordapp.com/attachments/904434710288154685/912473419986116658/unnamed.png">
   
-  <img align="right" alt="Robo-pic" height="159" style="border-radius:50px;"src="https://cdn.discordapp.com/attachments/904434710288154685/912478312796926012/pp-removebg-preview.png">
-
-
+<div> 
 ##
   
 <div>
