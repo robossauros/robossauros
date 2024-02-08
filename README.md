@@ -22,13 +22,8 @@ Premiações 🏆
   <img align="center" alt="Robo-pic" height="80" style="border-radius:50px;"src="https://cdn.discordapp.com/attachments/904434710288154685/912473419986116658/unnamed.png">
    <img align="center" alt="Robo-pic" height="80" style="border-radius:50px;"src="https://www.cbrobotica.org/wp-content/uploads/2019/07/cbrRobot.png">
   
-<div> 
+##
 
-
-
-
-
-<div>
   <a href="https://github.com/robossauros">
   <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/robossauros">
   <a href="https://www.instagram.com/robossaurosftc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
